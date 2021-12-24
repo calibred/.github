@@ -1,0 +1,54 @@
+name: Suggestion
+description: Suggest a new feature or a change to an existing one.
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Guidelines
+        Please make sure that your suggestion isn't something already existing, and that it hasn't been suggested before.
+  - type: textarea
+    attributes:
+      label: Platform
+      description: Which platform is this idea for? In-game or on discord or somewhere else?
+      render: markdown
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Suggestion
+      description: Enter your suggestion here. Try to be as thorough as possible.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Utility
+      description: Tell us why you feel like this feature would benefit the community.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Extras
+      description: |
+        Do you have anything else to add?
+
+        Tip: You can attach images or log files by clicking this area to highlight it and then dragging files in.
+    validations:
+      required: false
+
+  - type: checkboxes
+    attributes:
+      label: Checklist
+      description: Please make sure you've completed all the steps in the checklist
+      options:
+      - label: This is NOT a bug report or support request.
+        required: true
+      - label: I have made sure this issue is not a duplicate
+        required: true
+      - label: This issue does not contain any sensitive information 
+        required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this suggestion!
