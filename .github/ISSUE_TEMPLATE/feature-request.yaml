@@ -9,13 +9,6 @@ body:
         Please make sure that your suggestion isn't something already existing, and that it hasn't been suggested before.
   - type: textarea
     attributes:
-      label: Platform
-      description: Which platform is this idea for? In-game or on discord or somewhere else?
-      render: markdown
-    validations:
-      required: true
-  - type: textarea
-    attributes:
       label: Suggestion
       description: Enter your suggestion here. Try to be as thorough as possible.
     validations:
