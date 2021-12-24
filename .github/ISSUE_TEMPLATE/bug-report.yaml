@@ -14,7 +14,7 @@ body:
          - Provide information about the device the bug happened on.
       render: markdown
       value: |
-      - Package Version:
+         - Package Version:
     validations:
       required: true
   - type: textarea
