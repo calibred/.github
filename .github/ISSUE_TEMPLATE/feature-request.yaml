@@ -10,7 +10,10 @@ body:
   - type: textarea
     attributes:
       label: Suggestion
-      description: Enter your suggestion here. Try to be as thorough as possible.
+      description: |
+         - Enter your suggestion here. Try to be as thorough as possible.
+         - What would the feature look like? How would it work? How would it change the API?
+         - Are there alternatives you've considered?
     validations:
       required: true
   - type: textarea
