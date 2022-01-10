@@ -1,8 +1,6 @@
-### Hi there 👋
+###Welcome to Calibred!
 
-Welcome to Go Fresh!
-
-Go Fresh is a Toolkit for busing applications with the Go programming language.
+Calibred is a Toolkit for busing applications with the Go programming language.
 
 We provide many reliable and performant libraries which can and should be used :)
 
