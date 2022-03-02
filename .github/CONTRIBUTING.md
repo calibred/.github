@@ -1,4 +1,4 @@
-We'd love for you to contribute to the Go Fresh projects, as long as you keep in mind a few guidelines:
+We'd love for you to contribute to the Calibred projects, as long as you keep in mind a few guidelines:
 
 ### Do
 - Open an issue using a Feature Request discussing your idea *before* you start implementing it. We cannot accept any and every change.
@@ -8,4 +8,4 @@ We'd love for you to contribute to the Go Fresh projects, as long as you keep in
 ### Don't
 - Add comments such as 👍 and +1. Use the 👍 and 👎 reactions instead!
 
-> If you discover a potential security exploit or vulnerability check our [Security Policy](https://github.com/go-fresh/.github/security/policy) and do not release said vulnerability to the public.
+> If you discover a potential security exploit or vulnerability check our [Security Policy](https://github.com/calibred/.github/security/policy) and do not release said vulnerability to the public.
