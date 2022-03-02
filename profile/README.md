@@ -1,8 +1,6 @@
 ### Welcome to Calibred!
 
-Calibred is a Toolkit for busing applications with the Go programming language.
-
-We provide many reliable and performant libraries which can and should be used :)
+A password manager with no strings attached.
 
 
 
