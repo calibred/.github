@@ -60,7 +60,7 @@ body:
       label: Checklist
       description: Please make sure you've completed all the steps in the checklist
       options:
-      - label: I am not reporting a [security vulnerability](https://github.com/go-fresh/.github/security/policy)
+      - label: I am not reporting a [security vulnerability](https://github.com/calibred/.github/security/policy)
         required: true
       - label: I have made sure this issue is not a duplicate
         required: true
