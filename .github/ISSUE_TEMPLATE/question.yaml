@@ -1,5 +1,5 @@
 name: Question
-description: If you have a question about this package and it doesn't fit in the other categories.
+description: If you have a question about Calibred and it doesn't fit in the other categories.
 labels: ["question", "triage"]
 body:
   - type: markdown
