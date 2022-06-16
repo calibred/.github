@@ -1,6 +1,6 @@
 ### Welcome to Calibred!
 
-A password manager with no strings attached.
+An organization creating open-source software!
 
 
 
